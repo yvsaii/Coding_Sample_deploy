@@ -812,6 +812,9 @@ body{
 }
 
 @media (max-width: 480px) {
+    body{
+        overflow-x: hidden;
+    }
 
   /* ===== HEADER ===== */
   .header {
